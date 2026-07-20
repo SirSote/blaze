@@ -1,0 +1,37 @@
+[
+  {
+    "id": "shirt001",
+    "name": "Vintage Rock Band T-Shirt",
+    "description": "Classic 80s rock band design on premium cotton",
+    "price": "$29.99",
+    "style": "vintage retro 80s aesthetic"
+  },
+  {
+    "id": "shirt002",
+    "name": "Minimalist Quote Tee",
+    "description": "Inspirational quote in elegant typography",
+    "price": "$24.99",
+    "style": "minimalist clean modern"
+  },
+  {
+    "id": "shirt003",
+    "name": "Abstract Art Graphic Shirt",
+    "description": "Bold abstract patterns and vibrant colors",
+    "price": "$27.99",
+    "style": "colorful abstract artistic"
+  },
+  {
+    "id": "shirt004",
+    "name": "Nature Photography Print",
+    "description": "Stunning landscape photography on soft fabric",
+    "price": "$32.99",
+    "style": "natural scenic photography"
+  },
+  {
+    "id": "shirt005",
+    "name": "Cute Animal Illustration",
+    "description": "Adorable hand-drawn animal characters",
+    "price": "$26.99",
+    "style": "cute kawaii illustrated"
+  }
+]

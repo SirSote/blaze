@@ -1,0 +1,24 @@
+2026-02-14 18:46:56,026 - INFO - ==================================================
+2026-02-14 18:46:56,026 - INFO - Starting daily social media workflow
+2026-02-14 18:46:56,026 - INFO - Loaded 5 products
+2026-02-14 18:46:56,026 - INFO - Selected product: Abstract Art Graphic Shirt
+2026-02-14 18:46:56,026 - INFO - Generating image: professional product photo of Abstract Art Graphic...
+2026-02-14 18:48:48,168 - ERROR - Workflow failed: No image found in generation output
+2026-02-14 18:49:14,331 - INFO - ==================================================
+2026-02-14 18:49:14,331 - INFO - Starting daily social media workflow
+2026-02-14 18:49:14,331 - INFO - Loaded 5 products
+2026-02-14 18:49:14,331 - INFO - Selected product: Nature Photography Print
+2026-02-14 18:49:14,331 - INFO - Generating image: professional product photo of Nature Photography P...
+2026-02-14 18:50:36,500 - INFO - Image saved: /home/sirsote/scripts/social-bot/output/images/post_20260214_shirt004.png
+2026-02-14 18:50:36,500 - INFO - Generating captions...
+2026-02-14 18:51:34,651 - INFO - instagram: Introducing our nature photography print, featurin...
+2026-02-14 18:51:34,651 - INFO - facebook: [Insert picture of a serene landscape] Nature Phot...
+2026-02-14 18:51:34,651 - INFO - twitter: [Twitter capture] "Experience nature like never be...
+2026-02-14 18:51:34,651 - INFO - pinterest: "Nature Photography Print | Unforgettable Scenes f...
+2026-02-14 18:51:34,651 - INFO - Scheduling posts for 2026-02-15 10:00:00
+2026-02-14 18:51:34,745 - INFO - Scheduled: 0, Failed: 4
+2026-02-14 18:51:34,745 - ERROR - instagram: 404 Client Error: Not Found for url: http://localhost:9000/api/media
+2026-02-14 18:51:34,745 - ERROR - facebook: 404 Client Error: Not Found for url: http://localhost:9000/api/media
+2026-02-14 18:51:34,745 - ERROR - twitter: 404 Client Error: Not Found for url: http://localhost:9000/api/media
+2026-02-14 18:51:34,745 - ERROR - pinterest: 404 Client Error: Not Found for url: http://localhost:9000/api/media
+2026-02-14 18:51:34,745 - INFO - Daily workflow complete!
